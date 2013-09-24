@@ -1,0 +1,20 @@
+{
+    "name": "node-vst-host",
+    "version": "0.0.1",
+    "description": "VST host for processing audio",
+    "main": "node-vst-host.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": "",
+    "keywords": [
+        "VST",
+        "audio",
+        "process",
+        "batch",
+        "effect",
+        "AU"
+    ],
+    "author": "Mike Vegeto <michael.vegeto@gmail.com> (http://mikevegeto.com)",
+    "license": "MIT (with GPL dependencies)"
+}
