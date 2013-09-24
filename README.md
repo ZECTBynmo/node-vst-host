@@ -22,5 +22,5 @@ host.listPlugins( function(names) {
 });
 
 // Process an audio file with a VST plugin
-host.processAudio( "C:/inputFile.wav", "C:/outputFile.wav", ["pluginName"] );
+host.processAudio( "C:/inputFile.wav", "C:/outputFile.wav", ["pluginName1", "pluginName2"] );
 ```
