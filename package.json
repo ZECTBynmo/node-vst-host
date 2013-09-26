@@ -6,10 +6,6 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "repository": {
-        "type": "git",
-        "url": "http://github.com/ZECTBynmo/node-vst-host.git"
-    },
     "repository": "",
     "keywords": [
         "VST",
@@ -20,6 +16,9 @@
         "AU"
     ],
     "author": "Mike Vegeto <michael.vegeto@gmail.com> (http://mikevegeto.com)",
-    "license": "MIT (with GPL dependencies)"
-
+    "license": "MIT (with GPL dependencies)",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/ZECTBynmo/node-vst-host.git"
+    }
 }
