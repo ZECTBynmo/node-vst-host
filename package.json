@@ -1,6 +1,6 @@
 {
     "name": "node-vst-host",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "VST host for processing audio",
     "main": "node-vst-host.js",
     "scripts": {
