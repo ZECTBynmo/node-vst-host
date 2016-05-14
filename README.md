@@ -13,7 +13,7 @@ npm install node-vst-host
 ### Usage
 
 ```javascript
-var VSTHost = require("./node-vst-host").host;
+var VSTHost = require("node-vst-host").host;
 
 var host = new VSTHost();
 
